@@ -24,33 +24,44 @@ function Navbar() {
               <a
                 href="#"
                 className="rounded-md px-3 py-2 text-sm font-medium text-black 
-                
-             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
-             active:bg-red-600 active:text-white"
+                hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+                active:bg-red-600 active:text-white"
+                //     className="rounded-md px-3 py-2 text-sm font-medium text-black
+                //   hover:text-red-600  focus:text-red-600
+                //   active:text-red-600 focus:underline"
               >
                 Home
               </a>
               <a
                 href="#"
                 className="rounded-md px-3 py-2 text-sm font-medium text-black 
-             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
-             active:bg-red-600 active:text-white"
+                hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+                active:bg-red-600 active:text-white"
+                //     className="rounded-md px-3 py-2 text-sm font-medium text-black
+                //   hover:text-red-600  focus:text-red-600
+                //   active:text-red-600 focus:underline"
               >
                 About Us
               </a>
               <a
                 href="#"
                 className="rounded-md px-3 py-2 text-sm font-medium text-black 
-             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
-             active:bg-red-600 active:text-white"
+                hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+                active:bg-red-600 active:text-white"
+                //     className="rounded-md px-3 py-2 text-sm font-medium text-black
+                //   hover:text-red-600  focus:text-red-600
+                //   active:text-red-600 focus:underline"
               >
                 What we do
               </a>
               <a
                 href="#"
                 className="rounded-md px-3 py-2 text-sm font-medium text-black 
-             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
-             active:bg-red-600 active:text-white"
+                hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+                active:bg-red-600 active:text-white"
+                //     className="rounded-md px-3 py-2 text-sm font-medium text-black
+                //   hover:text-red-600  focus:text-red-600
+                //   active:text-red-600 focus:underline"
               >
                 Why join us
               </a>
