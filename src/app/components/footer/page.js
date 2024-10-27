@@ -10,7 +10,7 @@ function Footer() {
   return (
     <div className="pt-32 flex justify-between bg-white">
       {/* Left Div */}
-      <div className="p-0 absolute w-full h-full z-0">
+      <div className="p-0 absolute w-full h-72">
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
       </div>
       <div className="p-10 w-1/2 flex flex-col items-start space-y-4 z-10">
