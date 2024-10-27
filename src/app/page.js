@@ -1,10 +1,18 @@
 import Image from "next/image";
 import Footer from "./components/footer/page.js";
+import HeroPage from "./components/hero/page";
+import MainContent2 from "@/app/components/main-content2/page";
+import Ibrahim_section from "./components/main-content1/page.js";
+import AvailableOpportunities from "./components/opps/page";
 
 export default function Home() {
   return (
-    <main className="mx-auto max-w-7xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8 absolute inset-0">
-      <Footer />
+    <main>
+      <HeroPage />
+      <Ibrahim_section />
+      <MainContent2 />
+      <AvailableOpportunities />
+          <Footer />
     </main>
   );
 }
