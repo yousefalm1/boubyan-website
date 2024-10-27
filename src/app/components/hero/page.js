@@ -1,17 +1,16 @@
-import React from "react";
-import kuwait from "../../assets/kuwait_background.svg";
-import Image from "next/image";
+import React from 'react';
+import kuwait from '../../assets/kuwait_background.svg';
+import Image from 'next/image';
 const HeroPage = () => {
   return (
     <div
       style={{
         backgroundImage: `url(${kuwait.src})`,
-        backgroundSize: "relative",
-        backgroundPosition: "center", // Centers the image
-        backgroundRepeat: "no-repeat",
+        backgroundSize: 'fill', // Use 'cover' to fill the entire background
+        backgroundPosition: 'center', // Centers the image
+        backgroundRepeat: 'no-repeat',
       }}
-      className="w-screen h-screen bg-white flex flex-col
-      items-start "
+      className="w-screen h-screen bg-white flex flex-col items-start"
     >
       <hr className="border-red-900" />
       {/* <Image
