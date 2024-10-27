@@ -6,6 +6,7 @@ export default function Home() {
     <main>
       <h1>
         <HeroPage />
+        {/* add other stuff */}
       </h1>
     </main>
   );
