@@ -43,7 +43,7 @@ const AvailableOpportunities = () => {
   ];
 
   return (
-    <div className="p-48">
+    <div className="pl-48 pr-48">
       {/* Header */}
       <h1 className="text-3xl font-bold text-gray-800 mb-6">
         Available opportunities
