@@ -5,7 +5,7 @@ import mainContent1Img2 from "../../assets/ibr_img_2.svg";
 
 function Ibrahim_section() {
   return (
-    <div className="bg-white text-red-500">
+    <div className="bg-white text-red-500 px-36">
       {/* Ibrahim's work starts from here*/}
       <div className="p-3">
         <div className="flex flex-col md:flex-row items-center bg-white ">
