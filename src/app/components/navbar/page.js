@@ -23,32 +23,42 @@ function Navbar() {
             <div className="flex space-x-4 pt-10">
               <a
                 href="#"
-                className="rounded-md px-3 py-2 text-sm font-medium  hover:bg-red-600 hover:text-white text-black"
-                aria-current="page"
+                className="rounded-md px-3 py-2 text-sm font-medium text-black 
+                
+             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+             active:bg-red-600 active:text-white"
               >
                 Home
               </a>
               <a
                 href="#"
-                className="rounded-md px-3 py-2 text-sm font-medium  hover:bg-red-600 hover:text-white text-black"
+                className="rounded-md px-3 py-2 text-sm font-medium text-black 
+             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+             active:bg-red-600 active:text-white"
               >
                 About Us
               </a>
               <a
                 href="#"
-                className="rounded-md px-3 py-2 text-sm font-medium  hover:bg-red-600 hover:text-white text-black"
+                className="rounded-md px-3 py-2 text-sm font-medium text-black 
+             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+             active:bg-red-600 active:text-white"
               >
                 What we do
               </a>
               <a
                 href="#"
-                className="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-red-600 hover:text-white"
+                className="rounded-md px-3 py-2 text-sm font-medium text-black 
+             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+             active:bg-red-600 active:text-white"
               >
                 Why join us
               </a>
               <a
                 href="#"
-                className="rounded-md px-3 py-2 text-sm font-medium text-black hover:bg-red-600 hover:text-white"
+                className="rounded-md px-3 py-2 text-sm font-medium text-black 
+             hover:bg-red-600 hover:text-white focus:bg-red-600 focus:text-white 
+             active:bg-red-600 active:text-white"
               >
                 Career
               </a>
