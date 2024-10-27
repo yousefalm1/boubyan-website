@@ -8,7 +8,7 @@ import RightSide from "../../assets/rightside.svg";
 import icone from "../../assets/linkedin-box-fill.svg";
 function Footer() {
   return (
-    <div className="p-0 flex justify-between bg-white">
+    <div className="pt-32 flex justify-between bg-white">
       {/* Left Div */}
       <div className="p-0 absolute w-full h-full z-0">
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
